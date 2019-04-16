@@ -8,10 +8,4 @@ function scuberGreetingForFeet(ride){
     return "I will gladly take your thirty bucks.";
   }
 }
-function ternaryCheckCity(city){
-  if ((city)="NYC"){
-    return "Ok, sounds good.";
-  }else {
-    return "No go";
-  }
-}
+function ternaryCheckCity(city)
